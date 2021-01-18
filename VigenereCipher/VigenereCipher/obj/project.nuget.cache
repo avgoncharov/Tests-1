@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kpW771stwa8yfpJUH/TKvYGt8/uia28NAZIGY7HCadbdELjaSoNsffjyK+1P2ZZeY0IhePxcRTsbXftLI4+fyA==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp\\Test\\1st test\\VigenereCipher\\VigenereCipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DraggLur\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DraggLur\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

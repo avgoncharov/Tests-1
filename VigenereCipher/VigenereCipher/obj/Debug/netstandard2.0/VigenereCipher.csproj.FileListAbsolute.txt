@@ -1,0 +1,9 @@
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\bin\Debug\netstandard2.0\VigenereCipher.deps.json
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\bin\Debug\netstandard2.0\VigenereCipher.dll
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\bin\Debug\netstandard2.0\VigenereCipher.pdb
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\obj\Debug\netstandard2.0\VigenereCipher.AssemblyInfoInputs.cache
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\obj\Debug\netstandard2.0\VigenereCipher.AssemblyInfo.cs
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\obj\Debug\netstandard2.0\VigenereCipher.csproj.CoreCompileInputs.cache
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\obj\Debug\netstandard2.0\VigenereCipher.dll
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\obj\Debug\netstandard2.0\VigenereCipher.pdb
+C:\Users\EVA_UBIKA\source\repos\VigenereCipher\VigenereCipher\obj\Debug\netstandard2.0\VigenereCipher.csprojAssemblyReference.cache
